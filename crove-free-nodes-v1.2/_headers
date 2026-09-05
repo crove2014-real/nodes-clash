@@ -1,0 +1,11 @@
+/clash.yaml
+  Content-Type: text/yaml; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/shadowrocket.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/base64.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=300

@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "name": "Pawdroid",
+      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+    },
+    {
+      "name": "wzmwayne-aio",
+      "url": "https://raw.githubusercontent.com/wzmwayne/proxy-node/main/output/aio/clash.yaml"
+    },
+    {
+      "name": "Au1rxx",
+      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml"
+    },
+    {
+      "name": "ermaozi",
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"
+    },
+    {
+      "name": "anaer",
+      "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml"
+    },
+    {
+      "name": "vxiaov",
+      "url": "https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml"
+    },
+    {
+      "name": "xyfqzy",
+      "url": "https://raw.githubusercontent.com/xyfqzy/free-nodes/main/docs/subscriptions/clash.yaml"
+    },
+    {
+      "name": "free18",
+      "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
+    },
+    {
+      "name": "learnhard",
+      "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free"
+    },
+    {
+      "name": "mahdibland",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt"
+    }
+  ]
+}
