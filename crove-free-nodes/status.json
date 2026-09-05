@@ -1,0 +1,26 @@
+{
+  "nodes": 0,
+  "candidates_tested": 0,
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+      "fetched": false,
+      "candidates": 0,
+      "error": "URLError"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
+      "fetched": false,
+      "candidates": 0,
+      "error": "URLError"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
+      "fetched": false,
+      "candidates": 0,
+      "error": "URLError"
+    }
+  ],
+  "updated_at": "2026-09-05T05:54:47.095456+00:00",
+  "test": "TCP connect only"
+}
